@@ -34,35 +34,37 @@ The body's atomic composition creates a multilayered, dynamic magnetic blueprint
 
 MAF proposes a fractal relationship between:
 - Atomic magnetic fields (µₐ)
-- Human magnetic coherence (M_H)
-- Planetary magnetic frameworks (M_G)
+- Human magnetic coherence (Mₕ)
+- Planetary magnetic frameworks (Mɢ)
 
 Formally:
 
 ```
-M_H ∼ M_G (fractal magnetic symmetry)
+Mₕ ∼ Mɢ (fractal magnetic symmetry)
 ```
 
 ## Mathematical Formulations
 
 ### 3.1 Atomic Magnetic Moment (µₐ)
 
-MAF generalizes atomic magnetism as:
+MAF generalizes atomic magnetism as a function of multiple parameters:
 
 ```
 µₐ = f(electron dynamics, nuclear texture, internal magnetic density)
 ```
 
-### 3.2 Human Magnetic Structure (M_H)
+Where `f` represents a composite functional relationship combining these fundamental atomic properties.
+
+### 3.2 Human Magnetic Structure (Mₕ)
 
 ```
-M_H = Σ (µₐ × biological order × coherence factor)
+Mₕ = Σ (µₐ × biological order × coherence factor)
 ```
 
-### 3.3 Planetary Magnetic Structure (M_G)
+### 3.3 Planetary Magnetic Structure (Mɢ)
 
 ```
-M_G = Σ (core rotation × crustal magnetic mass × planetary resonance)
+Mɢ = Σ (core rotation × crustal magnetic mass × planetary resonance)
 ```
 
 ## Implications
