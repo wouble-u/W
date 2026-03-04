@@ -81,6 +81,87 @@ Magneto-Atomic Field Theory provides a new speculative lens for connecting atomi
 
 The theory presents a unified magneto-fractal framework connecting atoms, organisms, and planets, serving as a speculative foundation for future scientific investigation.
 
+## MAF-Quantum Extension
+
+This section extends the Magneto-Atomic Field Theory with quantum mechanical formulations, forming the **MAF-Quantum** framework.
+
+### Principle 5 — Quantum Spin as the Foundation of Atomic Magnetism
+
+MAF-Quantum posits that atomic magnetic identity originates from quantum spin states. Every electron and nucleus carries an intrinsic angular momentum (spin) described by quantum numbers, and the net magnetic moment of an atom is the vectorial sum of all spin and orbital contributions.
+
+**Key Concept:** The magnetic moment of each atom is quantized and expressed as a multiple of the Bohr magneton (µ_B = eℏ/2mₑ):
+
+```
+µₐ = g · µ_B · √(s(s+1))
+```
+
+Where `g` is the Landé g-factor, `µ_B` is the Bohr magneton, and `s` is the spin quantum number.
+
+### Principle 6 — Quantum Coherence in Biological Magnetic Networks
+
+MAF-Quantum proposes that the human magnetic lattice (Mₕ) is not merely a classical superposition of atomic moments, but involves quantum coherence effects — transient quantum correlations between atoms within biological macromolecules (e.g., proteins, DNA).
+
+**Key Concept:** Quantum coherence amplifies the effective magnetic signal of biological structures beyond what classical summation predicts:
+
+```
+Mₕ(quantum) = Mₕ(classical) + Δ_coherence
+```
+
+Where `Δ_coherence` represents the coherence-enhanced contribution from entangled spin states in ordered biological structures.
+
+### Principle 7 — Quantum Entanglement in Fractal Magnetic Symmetry
+
+MAF-Quantum extends the fractal correspondence (Principle 4) by proposing that quantum entanglement links magnetic states across scales. Local atomic spin states may be non-locally correlated with macroscopic field structures through entanglement chains in ordered matter.
+
+**Key Concept:** Fractal magnetic symmetry has a quantum basis:
+
+```
+|ψ_system⟩ = Σ αᵢ |µₐᵢ⟩ ⊗ |Mₕᵢ⟩ ⊗ |Mɢᵢ⟩
+```
+
+This represents the system as a quantum superposition of correlated atomic, biological, and planetary magnetic states.
+
+### Quantum Mathematical Formulations
+
+#### Q.1 Quantum Atomic Magnetic Moment
+
+```
+µₐ = -g_J · µ_B · J
+```
+
+Where `J` is the total angular momentum quantum number (magnitude), `g_J` is the Landé g-factor, and `µ_B` is the Bohr magneton. For the vector form, **µₐ** = -g_J · µ_B · **J**, where **J** is the angular momentum vector. The Landé g-factor is given by:
+
+```
+g_J = 1 + [J(J+1) + S(S+1) - L(L+1)] / [2J(J+1)]
+```
+
+#### Q.2 Quantum Hamiltonian for MAF Interactions
+
+The energy of an atomic magnetic moment in an external field **B** is:
+
+```
+H = -µₐ · B = g_J · µ_B · m_J · B
+```
+
+Where `m_J` is the magnetic quantum number ranging from `-J` to `+J`.
+
+#### Q.3 Coherence-Enhanced Human Magnetic Structure
+
+```
+Mₕ = Σᵢ ⟨ψᵢ | µₐᵢ | ψᵢ⟩ × (biological order)ᵢ × C_quantum
+```
+
+Where `C_quantum` is the quantum coherence factor, replacing the classical coherence factor with a term that accounts for entanglement and superposition effects.
+
+### Quantum Implications
+
+MAF-Quantum proposes that:
+
+- **Quantum Biology:** Biological sensitivity to magnetic fields may speculatively be mediated by quantum coherence effects in radical-pair mechanisms (related to avian magnetoreception models)
+- **Macroscopic Quantum Effects:** Planetary magnetic cycles may hypothetically influence quantum decoherence rates in biological systems, suggesting a theoretical quantum bridge between cosmic and cellular scales
+- **Quantum Measurement and Consciousness:** Speculatively, the collapse of quantum spin superpositions in neural magnetic structures may contribute to conscious experience, extending the human magnetic lattice model into neuroscience — though this remains highly theoretical
+- **Entangled Field Dynamics:** The fractal magneto-quantum framework hypothetically suggests that perturbations in atomic spin ensembles may propagate coherently across biological and planetary scales
+
 ## References
 
 - [MAF Theory Paper (PDF)](docs/MAF_Theory_Paper.pdf)
