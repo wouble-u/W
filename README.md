@@ -135,6 +135,7 @@ Where `J` is the total angular momentum quantum number (magnitude), `g_J` is the
 g_J = 1 + [J(J+1) + S(S+1) - L(L+1)] / [2J(J+1)]
 ```
 
+Here, `S` is the total electron spin angular momentum quantum number and `L` is the total orbital angular momentum quantum number.
 #### Q.2 Quantum Hamiltonian for MAF Interactions
 
 The energy of an atomic magnetic moment in an external field **B** is:
